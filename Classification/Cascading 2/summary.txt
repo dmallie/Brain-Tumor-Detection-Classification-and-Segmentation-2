@@ -1,0 +1,23 @@
+System's Performance
+	- System's prediction: 3514/3553
+	- System's classification accuracy: 98.902%
+	- System's precision output: 98.855%
+	- System's recall output: 98.859%
+	- System's F1-Score output: 98.857%
+######################################################################
+	- Accuracy of Healthy Dataset (Accuray of model 1): 1107/1110 ie 99.730%
+	- Accuracy of Glioma Dataset: 841/866 ie 97.113%
+	- Accuracy of Meningioma Dataset: 800/803 ie 99.626%
+	- Accuracy of Pituitary Dataset: 766/774 ie 98.966%
+######################################################################
+	- model_1's prediction: 3546/3553
+	- model_1's classification accuracy: 99.803%
+	- model_1's precision output: 99.759%
+	- model_1's recall output: 99.783%
+	- model_1's F1-Score output: 99.771%
+######################################################################
+	- model_2's prediction: 2407/2442
+	- model_2's classification accuracy: 98.567%
+	- model_2's precision output: 98.716%
+	- model_2's recall output: 98.733%
+	- model_2's F1-Score output: 98.725%

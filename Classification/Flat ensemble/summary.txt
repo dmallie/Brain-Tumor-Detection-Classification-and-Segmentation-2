@@ -1,0 +1,29 @@
+System's Performance of ensemble technique
+	- System's prediction: 3536/3553
+	- System's classification accuracy: 99.522%
+	- System's precision output: 99.501%
+	- System's recall output: 99.494%
+	- System's F1-Score output: 99.497%
+######################################################################
+	- Accuracy of Healthy Dataset: 1108/1110 ie 99.820%
+	- Accuracy of Glioma Dataset: 862/866 ie 99.538%
+	- Accuracy of Meningioma Dataset: 795/803 ie 99.004%
+	- Accuracy of Pituitary Dataset: 771/774 ie 99.612%
+######################################################################
+	- ResNet prediction: 3498/3553
+	- ResNet's classification accuracy: 98.452%
+	- ResNet's precision output: 98.368%
+	- ResNet's recall output: 98.349%
+	- ResNet's F1-Score output: 98.358%
+######################################################################
+	- DenseNet prediction: 3517/3553
+	- DenseNet's classification accuracy: 98.987%
+	- DenseNet's precision output: 98.933%
+	- DenseNet's recall output: 98.952%
+	- DenseNet's F1-Score output: 98.943%
+######################################################################
+	- EfficientNet prediction: 3525/3553
+	- EfficientNet's classification accuracy: 99.212%
+	- EfficientNet's precision output: 99.198%
+	- EfficientNet's recall output: 99.135%
+	- EfficientNet's F1-Score output: 99.166%
