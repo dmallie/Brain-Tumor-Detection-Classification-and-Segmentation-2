@@ -1,0 +1,1059 @@
+#################################################
+########### U-Net Training ###################### 
+Epoch [163/200]
+******** Training Result **************                    
+Loss: 0.3785403399391377
+Loss Dice: 0.07023828658968845
+Loss IoU: 0.13091437740528838
+Training Loss: 0.3785
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.42235297338486777
+Loss Dice: 0.15683653461890176
+Loss IoU: 0.26571691039117945
+Validation Loss: 0.4224
+------------------------------
+Epoch [164/200]
+******** Training Result **************                    
+Loss: 0.37808494083583355
+Loss Dice: 0.0693397525935731
+Loss IoU: 0.12940287098605582
+Training Loss: 0.3781
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.42711124660259514
+Loss Dice: 0.16622458831096087
+Loss IoU: 0.27852208767638253
+Validation Loss: 0.4271
+------------------------------
+Epoch [165/200]
+******** Training Result **************                    
+Loss: 0.37782942499727645
+Loss Dice: 0.0688404844320835
+Loss IoU: 0.1285115934591344
+Training Loss: 0.3778
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4215301063825186
+Loss Dice: 0.1552507854228177
+Loss IoU: 0.26343160351803735
+Validation Loss: 0.4215
+------------------------------
+Epoch [166/200]
+******** Training Result **************                    
+Loss: 0.3780229497463145
+Loss Dice: 0.06921182921592225
+Loss IoU: 0.12916635008568458
+Training Loss: 0.3780
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4267480565216677
+Loss Dice: 0.16535764572899758
+Loss IoU: 0.27877172128554184
+Validation Loss: 0.4267
+------------------------------
+Epoch [167/200]
+******** Training Result **************                    
+Loss: 0.37860408124137435
+Loss Dice: 0.07035640722259562
+Loss IoU: 0.13114014917865713
+Training Loss: 0.3786
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4251816049704515
+Loss Dice: 0.16241762849517355
+Loss IoU: 0.2735187570376994
+Validation Loss: 0.4252
+------------------------------
+Epoch [168/200]
+******** Training Result **************                    
+Loss: 0.3780454479633494
+Loss Dice: 0.06926420331001282
+Loss IoU: 0.1291264202049438
+Training Loss: 0.3780
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.41916264860401936
+Loss Dice: 0.1505695554666501
+Loss IoU: 0.25707644632653376
+Validation Loss: 0.4192
+------------------------------
+Epoch [169/200]
+******** Training Result **************                    
+Loss: 0.37885324621295674
+Loss Dice: 0.07086132260713171
+Loss IoU: 0.13204088894293664
+Training Loss: 0.3789
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4237387992869382
+Loss Dice: 0.15946187262754408
+Loss IoU: 0.2686437752257203
+Validation Loss: 0.4237
+------------------------------
+Epoch [170/200]
+******** Training Result **************                    
+Loss: 0.3784014556873986
+Loss Dice: 0.0699668213566567
+Loss IoU: 0.13042290588008595
+Training Loss: 0.3784
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4206705741662098
+Loss Dice: 0.15358405770952224
+Loss IoU: 0.26072608475677767
+Validation Loss: 0.4207
+------------------------------
+Epoch [171/200]
+******** Training Result **************                    
+Loss: 0.377947681682541
+Loss Dice: 0.06907062010562166
+Loss IoU: 0.1289333831915196
+Training Loss: 0.3779
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.42209340362030673
+Loss Dice: 0.15643258545253624
+Loss IoU: 0.26482047280790716
+Validation Loss: 0.4221
+------------------------------
+Epoch [172/200]
+******** Training Result **************                    
+Loss: 0.37804012931883335
+Loss Dice: 0.06925627525816573
+Loss IoU: 0.1292111558958571
+Training Loss: 0.3780
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.42363083835653664
+Loss Dice: 0.15935485793845017
+Loss IoU: 0.2692186377199764
+Validation Loss: 0.4236
+------------------------------
+Epoch [173/200]
+******** Training Result **************                    
+Loss: 0.3771131400098192
+Loss Dice: 0.0674333098403951
+Loss IoU: 0.12608183302143786
+Training Loss: 0.3771
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4212147795607785
+Loss Dice: 0.15459594621562728
+Loss IoU: 0.2621413136475822
+Validation Loss: 0.4212
+------------------------------
+Epoch [174/200]
+******** Training Result **************                    
+Loss: 0.3771034378875443
+Loss Dice: 0.06741391272937998
+Loss IoU: 0.1260273643630616
+Training Loss: 0.3771
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4286631050394554
+Loss Dice: 0.16924953512313012
+Loss IoU: 0.2834756075808499
+Validation Loss: 0.4287
+------------------------------
+Epoch [175/200]
+******** Training Result **************                    
+Loss: 0.37703924939194894
+Loss Dice: 0.06729193412243052
+Loss IoU: 0.12582381299518525
+Training Loss: 0.3770
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4227460947555624
+Loss Dice: 0.15772618347580394
+Loss IoU: 0.2663886720879025
+Validation Loss: 0.4227
+------------------------------
+Epoch [176/200]
+******** Training Result **************                    
+Loss: 0.37699275697640916
+Loss Dice: 0.06719657604364639
+Loss IoU: 0.12566711174997877
+Training Loss: 0.3770
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.42135603789958614
+Loss Dice: 0.15499747757717827
+Loss IoU: 0.26214399782992887
+Validation Loss: 0.4214
+------------------------------
+Epoch [177/200]
+******** Training Result **************                    
+Loss: 0.377230052340855
+Loss Dice: 0.06766348609581907
+Loss IoU: 0.12647412717342377
+Training Loss: 0.3772
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.42564918497938914
+Loss Dice: 0.16338384105980375
+Loss IoU: 0.27461091341411226
+Validation Loss: 0.4256
+------------------------------
+Epoch [178/200]
+******** Training Result **************                    
+Loss: 0.37769202971236504
+Loss Dice: 0.06857236910690652
+Loss IoU: 0.12803113611137612
+Training Loss: 0.3777
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.42212357330360945
+Loss Dice: 0.15649705851366225
+Loss IoU: 0.2646040762057247
+Validation Loss: 0.4221
+------------------------------
+Epoch [179/200]
+******** Training Result **************                    
+Loss: 0.3771159278744079
+Loss Dice: 0.06744573328723298
+Loss IoU: 0.12609879418890527
+Training Loss: 0.3771
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4241073391968746
+Loss Dice: 0.1604043582978763
+Loss IoU: 0.2699834414831529
+Validation Loss: 0.4241
+------------------------------
+Epoch [180/200]
+******** Training Result **************                    
+Loss: 0.3776391131525978
+Loss Dice: 0.06846536902037073
+Loss IoU: 0.12781168338149151
+Training Loss: 0.3776
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4257414758828251
+Loss Dice: 0.1636731367121314
+Loss IoU: 0.27428389896430855
+Validation Loss: 0.4257
+------------------------------
+Epoch [181/200]
+******** Training Result **************                    
+Loss: 0.37664759333463427
+Loss Dice: 0.06652351579767593
+Loss IoU: 0.12449185708735852
+Training Loss: 0.3766
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4223807857228261
+Loss Dice: 0.1567421419809874
+Loss IoU: 0.266605028107003
+Validation Loss: 0.4224
+------------------------------
+Epoch [182/200]
+******** Training Result **************                    
+Loss: 0.3767822162505794
+Loss Dice: 0.06678184153551751
+Loss IoU: 0.12494032734886129
+Training Loss: 0.3768
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4210573980835723
+Loss Dice: 0.1543125188057212
+Loss IoU: 0.26203329441753276
+Validation Loss: 0.4211
+------------------------------
+Epoch [183/200]
+******** Training Result **************                    
+Loss: 0.3777836528309482
+Loss Dice: 0.06875254895458831
+Loss IoU: 0.12830630063693574
+Training Loss: 0.3778
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4245599881551522
+Loss Dice: 0.16127014618857347
+Loss IoU: 0.2712882566193471
+Validation Loss: 0.4246
+------------------------------
+Epoch [184/200]
+******** Training Result **************                    
+Loss: 0.3771063606551987
+Loss Dice: 0.06741556770941044
+Loss IoU: 0.12602300117624568
+Training Loss: 0.3771
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4244191237387885
+Loss Dice: 0.160957136165284
+Loss IoU: 0.27042788255171024
+Validation Loss: 0.4244
+------------------------------
+Epoch [185/200]
+******** Training Result **************                    
+Loss: 0.37825627070158085
+Loss Dice: 0.06967116670405611
+Loss IoU: 0.12991658067132564
+Training Loss: 0.3783
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4264367973135074
+Loss Dice: 0.16481192501416045
+Loss IoU: 0.2757395090640392
+Validation Loss: 0.4264
+------------------------------
+Epoch [186/200]
+******** Training Result **************                    
+Loss: 0.37565260994783106
+Loss Dice: 0.06456280103389253
+Loss IoU: 0.1210421547293663
+Training Loss: 0.3757
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4228452610273755
+Loss Dice: 0.1578375725956986
+Loss IoU: 0.2663106115866691
+Validation Loss: 0.4228
+------------------------------
+Epoch [187/200]
+******** Training Result **************                    
+Loss: 0.3748892855216214
+Loss Dice: 0.06307208870953702
+Loss IoU: 0.1184194747437822
+Training Loss: 0.3749
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.423561295588184
+Loss Dice: 0.15922302719101372
+Loss IoU: 0.26797825403717823
+Validation Loss: 0.4236
+------------------------------
+Epoch [188/200]
+******** Training Result **************                    
+Loss: 0.3747920441500684
+Loss Dice: 0.06287955635405601
+Loss IoU: 0.11808281510751298
+Training Loss: 0.3748
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4234946272085163
+Loss Dice: 0.15908916666890197
+Loss IoU: 0.26789259359903717
+Validation Loss: 0.4235
+------------------------------
+Epoch [189/200]
+******** Training Result **************                    
+Loss: 0.3744306729591273
+Loss Dice: 0.062166509159067844
+Loss IoU: 0.11680444226937091
+Training Loss: 0.3744
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.421681162032084
+Loss Dice: 0.15554936920532747
+Loss IoU: 0.2630092053880901
+Validation Loss: 0.4217
+------------------------------
+Epoch [190/200]
+******** Training Result **************                    
+Loss: 0.3743927338497436
+Loss Dice: 0.062096897988243305
+Loss IoU: 0.11671446794842152
+Training Loss: 0.3744
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4203131476745288
+Loss Dice: 0.152956447153363
+Loss IoU: 0.2587779468605573
+Validation Loss: 0.4203
+------------------------------
+Epoch [191/200]
+******** Training Result **************                    
+Loss: 0.37434476899339797
+Loss Dice: 0.06199994778379481
+Loss IoU: 0.11650651542747274
+Training Loss: 0.3743
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4203655493603274
+Loss Dice: 0.1529512816848996
+Loss IoU: 0.2597403538282112
+Validation Loss: 0.4204
+------------------------------
+Epoch [192/200]
+******** Training Result **************                    
+Loss: 0.37411372308084306
+Loss Dice: 0.06154840938905452
+Loss IoU: 0.11573181927521178
+Training Loss: 0.3741
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.42088859834258313
+Loss Dice: 0.15395868736407314
+Loss IoU: 0.2606835158747139
+Validation Loss: 0.4209
+------------------------------
+Epoch [193/200]
+******** Training Result **************                    
+Loss: 0.3739151571817855
+Loss Dice: 0.061155280058688304
+Loss IoU: 0.11503885718102151
+Training Loss: 0.3739
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.41988720666624446
+Loss Dice: 0.15198172025399762
+Loss IoU: 0.258700664203641
+Validation Loss: 0.4199
+------------------------------
+Epoch [194/200]
+******** Training Result **************                    
+Loss: 0.3743297296001556
+Loss Dice: 0.06197541286336615
+Loss IoU: 0.11629137713858421
+Training Loss: 0.3743
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.41957594230435463
+Loss Dice: 0.1514924331611141
+Loss IoU: 0.25703218307987413
+Validation Loss: 0.4196
+------------------------------
+Epoch [195/200]
+******** Training Result **************                    
+Loss: 0.37451228943276915
+Loss Dice: 0.06235554925304778
+Loss IoU: 0.1171094370173647
+Training Loss: 0.3745
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.419716202197952
+Loss Dice: 0.15175629897407583
+Loss IoU: 0.25807505964815225
+Validation Loss: 0.4197
+------------------------------
+Epoch [196/200]
+******** Training Result **************                    
+Loss: 0.37403618346186396
+Loss Dice: 0.061396647165430356
+Loss IoU: 0.11545149014985308
+Training Loss: 0.3740
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4199445697928841
+Loss Dice: 0.15225230900034034
+Loss IoU: 0.25794745854214574
+Validation Loss: 0.4199
+------------------------------
+Epoch [197/200]
+******** Training Result **************                    
+Loss: 0.3738877786363059
+Loss Dice: 0.061105670764091166
+Loss IoU: 0.11494180235139867
+Training Loss: 0.3739
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4209373177198954
+Loss Dice: 0.1541777961459964
+Loss IoU: 0.2607425859364299
+Validation Loss: 0.4209
+------------------------------
+Epoch [198/200]
+******** Training Result **************                    
+Loss: 0.3735885249966003
+Loss Dice: 0.06052303044719899
+Loss IoU: 0.11389766681067487
+Training Loss: 0.3736
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.42014180317049504
+Loss Dice: 0.1526214333037862
+Loss IoU: 0.25806952090835633
+Validation Loss: 0.4201
+------------------------------
+Epoch [199/200]
+******** Training Result **************                    
+Loss: 0.37341842515037416
+Loss Dice: 0.06018508653691475
+Loss IoU: 0.1133137896974036
+Training Loss: 0.3734
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4211512295226327
+Loss Dice: 0.15465583921355552
+Loss IoU: 0.2613183225139368
+Validation Loss: 0.4212
+------------------------------
+Epoch [200/200]
+******** Training Result **************                    
+Loss: 0.3736292656828114
+Loss Dice: 0.060597514852564385
+Loss IoU: 0.1140281099112744
+Training Loss: 0.3736
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.41990517149544115
+Loss Dice: 0.1521436306111997
+Loss IoU: 0.2581308038423948
+Validation Loss: 0.4199
+------------------------------
+[INFO] Total training time: 16145.425 seconds or 269.09 minutes
+#########################################
+UNET++
+------------------------------
+Epoch [200/200]
+******** Training Result **************                    
+Loss: 0.5195902614517415
+Loss Dice: 0.3470185335646284
+Loss IoU: 0.5078681306319034
+Training Loss: 0.5196
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.49705980312400366
+Loss Dice: 0.30308870180545644
+Loss IoU: 0.4584625503415431
+Validation Loss: 0.4971
+------------------------------
+[INFO] Total training time: 4885.025 seconds or 81.42 minutes
+############################################
+Images dataset
+------------------------------
+Epoch [171/200]
+******** Training Result **************                    
+Loss: 0.4521174097948886
+Loss Dice: 0.21453252093906097
+Loss IoU: 0.3476031651680774
+Training Loss: 0.4521
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.42910800903160784
+Loss Dice: 0.1698310803637477
+Loss IoU: 0.285383224855111
+Validation Loss: 0.4291
+Model saved!
+---------------
+#############################################
+Attention U-Net
+------------------------------
+Epoch [199/200]
+******** Training Result **************                    
+Loss: 0.4457808850689771
+Loss Dice: 0.20224805643900912
+Loss IoU: 0.32895749529942553
+Training Loss: 0.4458
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.41856734541071566
+Loss Dice: 0.14942917152198934
+Loss IoU: 0.25520275743253407
+Validation Loss: 0.4186
+------------------------------
+Epoch [200/200]
+******** Training Result **************                    
+Loss: 0.4422881734418742
+Loss Dice: 0.1954049159713248
+Loss IoU: 0.32019837042118643
+Training Loss: 0.4423
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4184899725490298
+Loss Dice: 0.14932017512326515
+Loss IoU: 0.2552643722778446
+Validation Loss: 0.4185
+------------------------------
+[INFO] Total training time: 30838.667 seconds or 513.98 minutes
+#####################################################
+------------------------------
+#######################################################
+UNET_64
+******** Training Result **************                    
+Loss: 0.4477697133124991
+Loss Dice: 0.22100587574283728
+Loss IoU: 0.36087785030572156
+Training Loss: 0.4478
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4381296440514923
+Loss Dice: 0.20351892373255706
+Loss IoU: 0.33421023130748767
+Validation Loss: 0.4381
+------------------------------
+Epoch [164/200]
+******** Training Result **************                    
+Loss: 0.4473032902242539
+Loss Dice: 0.22000416387779437
+Loss IoU: 0.3595647731523835
+Training Loss: 0.4473
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4394734208473106
+Loss Dice: 0.2051254203443115
+Loss IoU: 0.3363070130103928
+Validation Loss: 0.4395
+------------------------------
+Epoch [165/200]
+******** Training Result **************                    
+Loss: 0.44748582487249194
+Loss Dice: 0.22044452210044146
+Loss IoU: 0.36011339930559366
+Training Loss: 0.4475
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.43995322683230825
+Loss Dice: 0.20683560736400555
+Loss IoU: 0.3386894782537136
+Validation Loss: 0.4400
+------------------------------
+Epoch [166/200]
+******** Training Result **************                    
+Loss: 0.4472000862328747
+Loss Dice: 0.2199972677096892
+Loss IoU: 0.3594549078396644
+Training Loss: 0.4472
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4437791253252105
+Loss Dice: 0.21124480905316817
+Loss IoU: 0.3447589689413115
+Validation Loss: 0.4438
+------------------------------
+Epoch [167/200]
+******** Training Result **************                    
+Loss: 0.4462067921286665
+Loss Dice: 0.2182738340079561
+Loss IoU: 0.3573503415013074
+Training Loss: 0.4462
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4323685922690069
+Loss Dice: 0.19539714448464868
+Loss IoU: 0.32255089507000606
+Validation Loss: 0.4324
+------------------------------
+Epoch [168/200]
+******** Training Result **************                    
+Loss: 0.4472574041912172
+Loss Dice: 0.22010026408938432
+Loss IoU: 0.3597366629021891
+Training Loss: 0.4473
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4377123137019362
+Loss Dice: 0.20319773396101795
+Loss IoU: 0.3333322504750929
+Validation Loss: 0.4377
+------------------------------
+Epoch [169/200]
+******** Training Result **************                    
+Loss: 0.44664461799105454
+Loss Dice: 0.21901460745361415
+Loss IoU: 0.3583324687757742
+Training Loss: 0.4466
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.43064061014332017
+Loss Dice: 0.19240340125560892
+Loss IoU: 0.3183944302886094
+Validation Loss: 0.4306
+------------------------------
+Epoch [170/200]
+******** Training Result **************                    
+Loss: 0.4468930292776908
+Loss Dice: 0.21949060813764507
+Loss IoU: 0.35873125320516724
+Training Loss: 0.4469
+                                                           
+******** Validation Result **************
+Loss BCEDiceLoss: 0.44090143956455347
+Loss Dice: 0.20924272816108935
+Loss IoU: 0.3418440492056384
+Validation Loss: 0.4409
+------------------------------
+Epoch [171/200]
+******** Training Result **************                    
+Loss: 0.44651400646690126
+Loss Dice: 0.2187327291635092
+Loss IoU: 0.3577993901704581
+Training Loss: 0.4465
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.43652266075220963
+Loss Dice: 0.2014190665381431
+Loss IoU: 0.33126869599884795
+Validation Loss: 0.4365
+------------------------------
+Epoch [172/200]
+******** Training Result **************                    
+Loss: 0.4460007074508774
+Loss Dice: 0.21788602922293132
+Loss IoU: 0.3567244498693988
+Training Loss: 0.4460
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.44133183776989005
+Loss Dice: 0.20804742290071027
+Loss IoU: 0.34009339388820703
+Validation Loss: 0.4413
+------------------------------
+Epoch [173/200]
+******** Training Result **************                    
+Loss: 0.44654066570465933
+Loss Dice: 0.2189526685168234
+Loss IoU: 0.3580339410331812
+Training Loss: 0.4465
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.44154231045152154
+Loss Dice: 0.21005963920962448
+Loss IoU: 0.34225815973100904
+Validation Loss: 0.4415
+------------------------------
+Epoch [174/200]
+******** Training Result **************                    
+Loss: 0.4465030050009824
+Loss Dice: 0.21882417954309155
+Loss IoU: 0.35799577977326924
+Training Loss: 0.4465
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.45397825116959084
+Loss Dice: 0.22672416851823166
+Loss IoU: 0.365721231002013
+Validation Loss: 0.4540
+------------------------------
+Epoch [175/200]
+******** Training Result **************                    
+Loss: 0.44690720329570416
+Loss Dice: 0.21946706698181923
+Loss IoU: 0.3586324254671733
+Training Loss: 0.4469
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.43097021361251453
+Loss Dice: 0.19288255686765063
+Loss IoU: 0.31921838159525756
+Validation Loss: 0.4310
+------------------------------
+Epoch [176/200]
+******** Training Result **************                    
+Loss: 0.4446966182649805
+Loss Dice: 0.21572709061233292
+Loss IoU: 0.35383548037836166
+Training Loss: 0.4447
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4400352986578189
+Loss Dice: 0.20652342058926387
+Loss IoU: 0.33786509102615325
+Validation Loss: 0.4400
+------------------------------
+Epoch [177/200]
+******** Training Result **************                    
+Loss: 0.44460550441724084
+Loss Dice: 0.21558131763104643
+Loss IoU: 0.35366216614451745
+Training Loss: 0.4446
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4375852886215158
+Loss Dice: 0.2021187228261514
+Loss IoU: 0.33167950970147436
+Validation Loss: 0.4376
+------------------------------
+Epoch [178/200]
+******** Training Result **************                    
+Loss: 0.44460193159874906
+Loss Dice: 0.21564955021558183
+Loss IoU: 0.3536215108655365
+Training Loss: 0.4446
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.43573888808255756
+Loss Dice: 0.2000773101925816
+Loss IoU: 0.3290360477862153
+Validation Loss: 0.4357
+------------------------------
+Epoch [179/200]
+******** Training Result **************                    
+Loss: 0.4446063521091411
+Loss Dice: 0.2155192003267981
+Loss IoU: 0.3534925121269869
+Training Loss: 0.4446
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.43750881066876934
+Loss Dice: 0.202141532097012
+Loss IoU: 0.3315213714348911
+Validation Loss: 0.4375
+------------------------------
+Epoch [180/200]
+******** Training Result **************                    
+Loss: 0.4441297784838337
+Loss Dice: 0.21472860141639852
+Loss IoU: 0.3524757358018825
+Training Loss: 0.4441
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4320010658455812
+Loss Dice: 0.1940610477987155
+Loss IoU: 0.3205029018021383
+Validation Loss: 0.4320
+------------------------------
+Epoch [181/200]
+******** Training Result **************                    
+Loss: 0.44399604424555206
+Loss Dice: 0.21452941843186424
+Loss IoU: 0.35220285390646716
+Training Loss: 0.4440
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4366368161749307
+Loss Dice: 0.20083585029475684
+Loss IoU: 0.3299362597192513
+Validation Loss: 0.4366
+------------------------------
+Epoch [182/200]
+******** Training Result **************                    
+Loss: 0.44415675042273844
+Loss Dice: 0.21479277764813284
+Loss IoU: 0.35255412283015164
+Training Loss: 0.4442
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4380795552246386
+Loss Dice: 0.20385981534108918
+Loss IoU: 0.33422631289243665
+Validation Loss: 0.4381
+------------------------------
+Epoch [183/200]
+******** Training Result **************                    
+Loss: 0.4447692118668824
+Loss Dice: 0.21594723601466262
+Loss IoU: 0.35406100660674134
+Training Loss: 0.4448
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4436707411828251
+Loss Dice: 0.2114606873299122
+Loss IoU: 0.3449920400061807
+Validation Loss: 0.4437
+------------------------------
+Epoch [184/200]
+******** Training Result **************                    
+Loss: 0.4440380600507786
+Loss Dice: 0.214606662926156
+Loss IoU: 0.3523464554481292
+Training Loss: 0.4440
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4341295082346753
+Loss Dice: 0.19669668746761276
+Loss IoU: 0.32457524975993746
+Validation Loss: 0.4341
+------------------------------
+Epoch [185/200]
+******** Training Result **************                    
+Loss: 0.44396818281336226
+Loss Dice: 0.21452490410554723
+Loss IoU: 0.35211806295069864
+Training Loss: 0.4440
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4354962772513416
+Loss Dice: 0.1984170082817551
+Loss IoU: 0.3267104415666736
+Validation Loss: 0.4355
+------------------------------
+Epoch [186/200]
+******** Training Result **************                    
+Loss: 0.4439720609661345
+Loss Dice: 0.214580833465419
+Loss IoU: 0.35212489348672305
+Training Loss: 0.4440
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4320293136417332
+Loss Dice: 0.1946869776136944
+Loss IoU: 0.3216293760431181
+Validation Loss: 0.4320
+------------------------------
+Epoch [187/200]
+******** Training Result **************                    
+Loss: 0.4441878175579207
+Loss Dice: 0.21482724129930417
+Loss IoU: 0.352532961172111
+Training Loss: 0.4442
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4346685347201041
+Loss Dice: 0.19833806728477293
+Loss IoU: 0.3265152697363623
+Validation Loss: 0.4347
+------------------------------
+Epoch [188/200]
+******** Training Result **************                    
+Loss: 0.4434015110190888
+Loss Dice: 0.21346912290273087
+Loss IoU: 0.3507381134042133
+Training Loss: 0.4434
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.43742151967968973
+Loss Dice: 0.20162001803651686
+Loss IoU: 0.33126042816327006
+Validation Loss: 0.4374
+------------------------------
+Epoch [189/200]
+******** Training Result **************                    
+Loss: 0.4437229544035951
+Loss Dice: 0.21414478619893393
+Loss IoU: 0.35168141137794606
+Training Loss: 0.4437
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4309798054489376
+Loss Dice: 0.19325045255683798
+Loss IoU: 0.31932323889994807
+Validation Loss: 0.4310
+------------------------------
+Epoch [190/200]
+******** Training Result **************                    
+Loss: 0.4438691721873337
+Loss Dice: 0.2143937258907918
+Loss IoU: 0.35204587748434657
+Training Loss: 0.4439
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.42949775126313594
+Loss Dice: 0.19021195387708564
+Loss IoU: 0.3151175454490451
+Validation Loss: 0.4295
+------------------------------
+Epoch [191/200]
+******** Training Result **************                    
+Loss: 0.44399655373132185
+Loss Dice: 0.21462895606787463
+Loss IoU: 0.35213943188556573
+Training Loss: 0.4440
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.43976101906789006
+Loss Dice: 0.2056276710011918
+Loss IoU: 0.3365692479689991
+Validation Loss: 0.4398
+------------------------------
+Epoch [192/200]
+******** Training Result **************                    
+Loss: 0.4433503750893061
+Loss Dice: 0.21347895599483105
+Loss IoU: 0.35077467884463764
+Training Loss: 0.4434
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4363992258232473
+Loss Dice: 0.2001574596219644
+Loss IoU: 0.32950837685551254
+Validation Loss: 0.4364
+------------------------------
+Epoch [193/200]
+******** Training Result **************                    
+Loss: 0.4435988013887227
+Loss Dice: 0.2138566965244236
+Loss IoU: 0.351299451308304
+Training Loss: 0.4436
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.44521279720223833
+Loss Dice: 0.21440547389989462
+Loss IoU: 0.34844139335519503
+Validation Loss: 0.4452
+------------------------------
+Epoch [194/200]
+******** Training Result **************                    
+Loss: 0.44291597911704345
+Loss Dice: 0.212680647324087
+Loss IoU: 0.34969418537750674
+Training Loss: 0.4429
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.42628729905211
+Loss Dice: 0.18491281738507911
+Loss IoU: 0.30841386778421126
+Validation Loss: 0.4263
+------------------------------
+Epoch [195/200]
+******** Training Result **************                    
+Loss: 0.442672962106569
+Loss Dice: 0.2122763870807176
+Loss IoU: 0.34926549135968926
+Training Loss: 0.4427
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4309319423638162
+Loss Dice: 0.19239357488310746
+Loss IoU: 0.3185379556788597
+Validation Loss: 0.4309
+------------------------------
+Epoch [196/200]
+******** Training Result **************                    
+Loss: 0.44303773884916126
+Loss Dice: 0.21281091528438897
+Loss IoU: 0.34986752372109486
+Training Loss: 0.4430
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.43717881926475516
+Loss Dice: 0.20211218239343753
+Loss IoU: 0.33193109175177754
+Validation Loss: 0.4372
+------------------------------
+Epoch [197/200]
+******** Training Result **************                    
+Loss: 0.4430929497163394
+Loss Dice: 0.2128530400299401
+Loss IoU: 0.3498627987693758
+Training Loss: 0.4431
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.4387616219582708
+Loss Dice: 0.20300800562256813
+Loss IoU: 0.33372857515248044
+Validation Loss: 0.4388
+------------------------------
+Epoch [198/200]
+******** Training Result **************                    
+Loss: 0.44278998131609143
+Loss Dice: 0.2124621274319481
+Loss IoU: 0.3494927462343866
+Training Loss: 0.4428
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.43446639420002625
+Loss Dice: 0.19755304757956843
+Loss IoU: 0.3264250939496071
+Validation Loss: 0.4345
+------------------------------
+Epoch [199/200]
+******** Training Result **************                    
+Loss: 0.4421411129865753
+Loss Dice: 0.2112927206893092
+Loss IoU: 0.34790807873122254
+Training Loss: 0.4421
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.44093120243980294
+Loss Dice: 0.20738793756137266
+Loss IoU: 0.33957979943592925
+Validation Loss: 0.4409
+------------------------------
+Epoch [200/200]
+******** Training Result **************                    
+Loss: 0.4429574917429842
+Loss Dice: 0.2127172259355752
+Loss IoU: 0.349850170174788
+Training Loss: 0.4430
+                                                            
+******** Validation Result **************
+Loss BCEDiceLoss: 0.43120826021002784
+Loss Dice: 0.1931946413015295
+Loss IoU: 0.3196820023190474
+Validation Loss: 0.4312
+------------------------------
+[INFO] Total training time: 1833.343 seconds or 30.56 minutes
